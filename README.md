@@ -61,6 +61,11 @@ Example Output:
 
 ```
 
+## Display Random Messages
+```sh
+./hamba -r 
+``` 
+This will show a random inspirational message
 ### Display Help
 
 To see usage instructions, run the program with the `-help` option:
@@ -79,6 +84,7 @@ Options:
 Arguments:
   MESSAGE     The message to display
 ```
+
 
 ## Customizing the ASCII Art
 
